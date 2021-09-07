@@ -10,3 +10,10 @@ serve index | $ npm i serve-index
 path | $ npm install --save path
 
 
+Note:
+
+>Create a uploads directory where the uploaded files to be stored.
+>Also you can `install nodemon for instantly previewing the changes`.
+
+$ npm install nodemon --save
+------------------------------------------------|
